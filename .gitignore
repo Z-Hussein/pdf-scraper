@@ -15,6 +15,7 @@ venv/
 build/
 dist/
 *.egg-info/
+PDF_Scraper_Pro_Installer.exe
 
 # OS files
 .DS_Store
