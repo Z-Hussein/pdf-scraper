@@ -20,11 +20,11 @@ python PDFScraperPro.py
 ## License & Attribution
 
 This project is distributed under a custom attribution license (see
-`LICENSE.txt`). You **must** credit the original author (Your Name) in any
+`LICENSE.txt`). You **must** credit the original author (Z-Hussein) in any
 use, documentation, or publication of this code. A typical acknowledgement
 would be:
 
-> Based on PDF Scraper Pro by Your Name (https://github.com/Z-Hussein/pdf-scraper)
+> Based on PDF Scraper Pro by (https://github.com/Z-Hussein/pdf-scraper)
 
 ## Watermark Preview
 
